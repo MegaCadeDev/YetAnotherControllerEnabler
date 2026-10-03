@@ -1,0 +1,4 @@
+YetAnotherControllerEnabler.elf
+padbridge.elf
+tests/test_hid_map
+*.o
